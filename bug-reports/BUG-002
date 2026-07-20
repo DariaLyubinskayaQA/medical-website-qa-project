@@ -1,6 +1,6 @@
 # Баг #2: Поля "Имя" и "Фамилия" принимают специальные символы без сообщения об ошибке
 
-- **ID:** BG-002  
+- **ID:** BUG-002  
 - **Component:** Форма записи на прием
 - **Type:** Функциональный баг (Functional Bug)
 - **Severity:** Низкая (Minor)  
@@ -24,4 +24,4 @@
 
 ## Screenshot
 
-![bug-2](../screenshots/bug-2.png)
+![BUG-002](../screenshots/bug-2.png)
